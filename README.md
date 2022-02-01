@@ -1,4 +1,4 @@
-# Enviar Email desde NodeJS con Nodemailer
+# Enviar email desde NodeJS con Nodemailer
 
 Tenemos 3 archivos diferentes, cada uno de ellos es un ejemplo básico de un email.
 
